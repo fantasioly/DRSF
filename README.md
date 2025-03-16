@@ -5,7 +5,7 @@
 --->
 ### [arXiv](https://xxxx)
 
-![teaser](assets/teaser.png)
+![framework](assets/framework.png)
 
 <details>
   <summary>
