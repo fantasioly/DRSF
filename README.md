@@ -13,11 +13,11 @@ Single Domain Generalization (SDG) aims to train models with consistent performa
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
-    <pre><code>@Article{xx,
-      title        = {xxx},
-      author       = {xx},
-      journal      = {xx},
-      year         = {xx}
+    <pre><code>@Article{li2025letsyntheticdatashine,
+      title={Let Synthetic Data Shine: Domain Reassembly and Soft-Fusion for Single Domain Generalization}, 
+      author={Hao Li and Yubin Xiao and Ke Liang and Mengzhu Wang and Long Lan and Kenli Li and Xinwang Liu},
+      year={2025},
+      url={https://arxiv.org/abs/2503.13617}, 
 }</code></pre>
   </div>
 </section>
