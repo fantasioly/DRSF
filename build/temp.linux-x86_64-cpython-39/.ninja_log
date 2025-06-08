@@ -1,0 +1,23 @@
+# ninja log v5
+2	13571	1737808728024552200	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cpu/ROIAlign_cpu.o	8a95a801d7bd8b10
+2	14911	1737808729365511200	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cpu/nms_cpu.o	83b2c3293ab6bc5e
+3	15879	1737808730336731500	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/deform_pool_kernel_cuda.o	f71547a118d01e63
+3	16369	1737808730826726500	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/deform_conv_kernel_cuda.o	5c6cae7facbdd310
+4	16971	1737808731425103200	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/vision.o	f87bb857806a2afe
+2	17838	1737808732295552100	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/ROIAlign_cuda.o	d5e6073d5a6ec06c
+3	18864	1737808733324183100	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/deform_pool_cuda.o	bdcb7b3aeab1977d
+3	18871	1737808733328874400	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/deform_conv_cuda.o	9b1af000d35bc36a
+3	20059	1737808734518401700	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/nms.o	e58f4943342bf212
+3	20474	1737808734933402400	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/SigmoidFocalLoss_cuda.o	c33ac5747ff3984c
+2	20599	1737808735058250700	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/ROIPool_cuda.o	e55a73a4bf2c7159
+9	13044	1737808748502556500	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cpu/nms_cpu.o	29c6735190ce686a
+9	14900	1737808750362105100	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cpu/ROIAlign_cpu.o	fc9771720d5d8e60
+11	14908	1737808750368992200	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/vision.o	b4259e4b234881e7
+10	15340	1737808750804732100	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/deform_conv_kernel_cuda.o	71ffa66b3540d9d5
+10	18788	1737808754252278900	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/deform_pool_kernel_cuda.o	ecb965bb24180c7d
+11	19135	1737808754599626300	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/nms.o	a51086d46aa69369
+10	20083	1737808755548643200	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/deform_pool_cuda.o	83f253d2120ee461
+10	20195	1737808755660259800	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/deform_conv_cuda.o	43fcf7029d3181e3
+10	21129	1737808756594611600	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/SigmoidFocalLoss_cuda.o	80dde1ab4e87a680
+9	21700	1737808757164675100	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/ROIPool_cuda.o	6877bd03ab772ac4
+9	21813	1737808757277904500	/media/haoli/DATA/My_project/DA/MIC/det/build/temp.linux-x86_64-cpython-39/media/haoli/DATA/My_project/DA/MIC/det/maskrcnn_benchmark/csrc/cuda/ROIAlign_cuda.o	b24798da183df90c
