@@ -45,13 +45,13 @@ datasets/
 For experiments in our paper, we use the following script to run SDG-OD task:
 
 ```shell
-python tools/train_net.py --config-file configs/da_faster_rcnn/e2e_da_faster_rcnn_R_50_FPN_masking_cs.yaml
+python tools/train_net.py --config-file configs/faster_rcnn_R_101_DRSF_aw.yaml
 ```
 
 ## Evaluation
 The trained model could be evaluated with the following script:
 ```shell
-python tools/test_net.py --config-file "configs/da_faster_rcnn/e2e_da_faster_rcnn_R_50_FPN_masking_cs.yaml" MODEL.WEIGHT <path_to_store_weight>/model_final.pth
+python tools/test_net.py --config-file "configs/faster_rcnn_R_101_DRSF_aw.yaml" MODEL.WEIGHT <path_to_store_weight>/model_final.pth
 ```
 
  ### TODO LIST
